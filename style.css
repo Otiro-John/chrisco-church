@@ -93,7 +93,7 @@
         padding: 0.75rem;
     }
     .carousel-inner img {
-        min-height: 500px; /* Limit height */
+        min-height: 580px; /* Limit height */
         object-fit: cover; /* Keep image proportions while covering */
       }
 }
